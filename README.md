@@ -1,1 +1,2 @@
-# Sales_dashboard_1
+# PowerBI_Dashboard_Project
+The Madhav Sales Project report provides insights into sales performance across various categories, including Electronics and Furniture. Key cities like Mathura, Delhi and Mumbai drive significant sales. Payment methods include COD, EMI and Credit Card. Profitability varies, with high margins on Phones and Printers. The data highlights regional sales trends, customer behavior and order patterns, helping optimize business strategies for improved revenue and customer satisfaction.
